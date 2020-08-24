@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.14.1](https://www.github.com/googleapis/java-bigtable/compare/v1.14.0...v1.14.1) (2020-08-24)
+
+
+### Dependencies
+
+* update dependency com.google.cloud:google-cloud-shared-dependencies to v0.8.6 ([#377](https://www.github.com/googleapis/java-bigtable/issues/377)) ([bdae336](https://www.github.com/googleapis/java-bigtable/commit/bdae336074d80815dcaaf8c71befafc0ed66c079))
+
 ## [1.14.0](https://www.github.com/googleapis/java-bigtable/compare/v1.13.1...v1.14.0) (2020-07-20)
 
 
